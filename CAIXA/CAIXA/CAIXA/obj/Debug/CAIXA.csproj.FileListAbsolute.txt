@@ -1,0 +1,40 @@
+C:\Users\Monica\Desktop\Pessoal\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\bin\Debug\CAIXA.exe.config
+C:\Users\Monica\Desktop\Pessoal\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\bin\Debug\CAIXA.exe
+C:\Users\Monica\Desktop\Pessoal\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\bin\Debug\CAIXA.pdb
+C:\Users\Monica\Desktop\Pessoal\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.csprojResolveAssemblyReference.cache
+C:\Users\Monica\Desktop\Pessoal\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.INICIAL.resources
+C:\Users\Monica\Desktop\Pessoal\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.PRODUTO.resources
+C:\Users\Monica\Desktop\Pessoal\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.Properties.Resources.resources
+C:\Users\Monica\Desktop\Pessoal\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.VENDA.resources
+C:\Users\Monica\Desktop\Pessoal\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.VENDA_CONCLUIDA.resources
+C:\Users\Monica\Desktop\Pessoal\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.csproj.GenerateResource.Cache
+C:\Users\Monica\Desktop\Pessoal\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.exe
+C:\Users\Monica\Desktop\Pessoal\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.pdb
+C:\Users\Monica\Desktop\DESAFIO\CAIXA\CAIXA\bin\Debug\CAIXA.exe.config
+C:\Users\Monica\Desktop\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.exe
+C:\Users\Monica\Desktop\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.pdb
+C:\Users\Monica\Desktop\DESAFIO\CAIXA\CAIXA\bin\Debug\CAIXA.exe
+C:\Users\Monica\Desktop\DESAFIO\CAIXA\CAIXA\bin\Debug\CAIXA.pdb
+C:\Users\Monica\Desktop\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.csprojResolveAssemblyReference.cache
+C:\Users\Monica\Desktop\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.INICIAL.resources
+C:\Users\Monica\Desktop\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.PRODUTO.resources
+C:\Users\Monica\Desktop\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.Properties.Resources.resources
+C:\Users\Monica\Desktop\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.VENDA.resources
+C:\Users\Monica\Desktop\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.VENDA_CONCLUIDA.resources
+C:\Users\Monica\Desktop\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.csproj.GenerateResource.Cache
+C:\Users\Monica\Desktop\DESAFIO - Considerar essa pasta\CAIXA\CAIXA\bin\Debug\CAIXA.exe.config
+C:\Users\Monica\Desktop\DESAFIO - Considerar essa pasta\CAIXA\CAIXA\obj\Debug\CAIXA.exe
+C:\Users\Monica\Desktop\DESAFIO - Considerar essa pasta\CAIXA\CAIXA\obj\Debug\CAIXA.pdb
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\bin\Debug\CAIXA.exe.config
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\bin\Debug\CAIXA.exe
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\bin\Debug\CAIXA.pdb
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.csprojAssemblyReference.cache
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.INICIAL.resources
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.PRODUTO.resources
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.Properties.Resources.resources
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.VENDA.resources
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.VENDA_CONCLUIDA.resources
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.csproj.GenerateResource.cache
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.csproj.CoreCompileInputs.cache
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.exe
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\DESAFIO\CAIXA\CAIXA\obj\Debug\CAIXA.pdb
